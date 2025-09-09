@@ -1,2 +1,1 @@
-# LocalRepo
-this is my first local repo
+# LocalRepo this is my first local repo
